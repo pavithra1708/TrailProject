@@ -4,4 +4,10 @@ print("Good day!")
 
 
 
+
+
+print("Monday")
+
+
 print("Holiday")
+
