@@ -12,3 +12,5 @@ print("Monday")
 print("Holiday")
 
 print("Tomorrow is a working day")
+
+print("Saturday")
