@@ -8,8 +8,10 @@ print("Good day!")
 
 print("today is saturday")
 
+print("merge conflic")
 
-print("Holiday")
+
+print("Holiday !")
 
 print("Tomorrow is a working day")
 
