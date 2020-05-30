@@ -6,7 +6,11 @@ print("Good day!")
 #Holaa
 
 
-print("today is saturday")
+#helo ppl
+
+print(test)
+
+
 
 
 print("Holiday")
